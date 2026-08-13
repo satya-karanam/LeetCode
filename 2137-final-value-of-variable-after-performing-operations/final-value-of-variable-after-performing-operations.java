@@ -9,7 +9,7 @@ class Solution {
                 X--;
             }
         }
-
         return X;
     }
+
 }
